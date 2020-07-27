@@ -9,9 +9,9 @@ eu_df <- read.csv("eu_states.csv")
 # Format the Popup
 eu_popup <- paste0("<a href='", eu_df$Links, "'>",
                    "State: ", eu_df$State,
-                   "; Capital: ", eu_df$Capital,
-                   "; Population Density:", eu_df$Population_Density,
-                   "(per km^2)</a>") 
+                   "<br>Capital: ", eu_df$Capital,
+                   "<br>Population Density:", eu_df$Population_Density,
+                   "(per km^2)</span></a>") 
 
 # Add the Icon
 eu_icon <- makeIcon(iconUrl = eu_df$Flag,
@@ -32,7 +32,7 @@ tag.map.title <- tags$style(HTML(".leaflet-control.map-title
                                     font-size: 28px;}"))
 # Add the Title
 title <- tags$div(tag.map.title,
-                  HTML("Europen Union States with respect to Population Density"))
+                  HTML("Europen Union States with respect to Population Density<br>July 27, 2020"))
 
 # Construct the map
 map_leaflet <- eu_df %>%
