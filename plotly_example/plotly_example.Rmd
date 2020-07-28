@@ -1,0 +1,51 @@
+---
+title: "plotly_example"
+author: "Prafful Agrawal"
+date: "July 28, 2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message = FALSE,
+                      warning = FALSE,
+                      echo = FALSE)
+```
+
+## European Union States
+
+```{r plotly}
+library(plotly)
+```
+
+```{r eu_df}
+eu_df <- read.csv("eu_states.csv")
+```
+
+```{r popup}
+eu_df$popup <- paste0("State: ", eu_df$State,
+                      "<br>Capital: ", eu_df$Capital,
+                      "<br>Population Density:", eu_df$Population_Density,
+                      "(per km^2)</span></a>") 
+```
+
+```{r plot}
+plt <- plot_geo(data = eu_df,
+                type = 'choropleth',
+                locations = ~Code,
+                z = log(eu_df$Population_Density),
+                zmin = 0,
+                zmax = log(500),
+                text = ~popup,
+                hoverinfo='text',
+                colorscale='Greens',
+                reversescale = TRUE,
+                showscale = FALSE,
+                marker = list(line = list(color = toRGB("white"))))
+
+plt <- plt %>% layout(title = "Europen Union States with respect to Population Density",
+                      geo = list(resolution = 50,
+                                 scope = "europe",
+                                 projection = list(type = "conic conformal", scale = 1.5)))
+
+plt
+```
