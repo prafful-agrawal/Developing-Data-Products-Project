@@ -1,0 +1,55 @@
+#### *Prafful Agrawal*
+#### *July 31, 2020*
+
+---
+
+## Introduction
+
+- In this project, we have developed a *shiny* application which can be used for exploring the different **European Union States**.
+
+- The details regarding the EU states was *scraped off* the web. (from *[wikipedia](https://en.wikipedia.org/wiki/European_Union)*)
+
+- The application presents the final output in *three* forms:
+  1. **Summary** - key details for all the states.
+  2. **State Details** - detailed information about a *single* state with an option to choose the state from a list.
+  3. **Plots** - geographical plots for the EU states w.r.t. different variables, such as population, area and population density.
+<br>
+<br>
+- Options have been given to *show/hide* various components of the application as desired. 
+
+### 1. Summary
+
+- In *summary*, we present some key details regarding all the states of the European Union which are presented in the form of a table.
+
+- The details included are:
+  1. **State** - name of the EU state.
+  2. **Code** - *three* character ISO ALPHA-3 country code.
+  3. **Capital** - name of the capital.
+  4. **Further_Reading** - external link (to *wikipedia*) to continue reading.
+
+### 2. State Details
+
+- In *state details*, we present detailed information regarding a *single* state of the European Union.
+
+- An option is provided to choose the member state to show details about.
+
+- The details included are:
+  1. **Flag** - flag of the EU state.
+  2. **State** - name of the EU state.
+  3. **Code** - *three* character ISO ALPHA-3 country code.
+  4. **Capital** - name of the capital.
+  5. **Location** - *latitude* and *longitude* information.
+  6. **Population** - population in *Millions*. [as on January 01, 2020]
+  7. **Area** - land area in *Thousand kilometer square*.
+  8. **Population Density** - population density in *per kilometer square*.
+  9. **Further_Reading** - external link (to *wikipedia*) to continue reading.
+
+### 3. Plots
+
+- In *plots*, we present geographical plots for the EU states w.r.t. *three* variables, namely:
+  1. **Population**
+  2. **Area**, and
+  3. **Population Density**.
+<br>
+<br>
+- An option is provided to choose the plot(s) to display.

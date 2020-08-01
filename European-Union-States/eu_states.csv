@@ -1,0 +1,28 @@
+State,Code,Capital,Links,Population,Area,Population_Density,Latitude,Longitude,Flag
+Austria,AUT,Vienna,https://en.wikipedia.org/wiki/Austria,8858775,83855,106,47.5162,14.5501,https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg
+Belgium,BEL,Brussels,https://en.wikipedia.org/wiki/Belgium,11467923,30528,376,50.5039,4.4699,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg
+Bulgaria,BGR,Sofia,https://en.wikipedia.org/wiki/Bulgaria,7000039,110994,63,42.7339,25.4858,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg
+Croatia,HRV,Zagreb,https://en.wikipedia.org/wiki/Croatia,4076246,56594,72,45.1,15.2,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg
+Cyprus,CYP,Nicosia,https://en.wikipedia.org/wiki/Cyprus,875898,9251,95,35.1264,33.4299,https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg
+Czech Republic,CZE,Prague,https://en.wikipedia.org/wiki/Czech_Republic,10649800,78866,135,49.8175,15.473,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg
+Denmark,DNK,Copenhagen,https://en.wikipedia.org/wiki/Denmark,5806081,43075,135,56.2639,9.5018,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg
+Estonia,EST,Tallinn,https://en.wikipedia.org/wiki/Estonia,1324820,45227,29,58.5953,25.0136,https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg
+Finland,FIN,Helsinki,https://en.wikipedia.org/wiki/Finland,5517919,338424,16,61.9241,25.7482,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg
+France,FRA,Paris,https://en.wikipedia.org/wiki/France,67028048,640679,105,46.2276,2.2137,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg
+Germany,DEU,Berlin,https://en.wikipedia.org/wiki/Germany,83019214,357021,233,51.1657,10.4515,https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg
+Greece,GRC,Athens,https://en.wikipedia.org/wiki/Greece,10722287,131990,81,39.0742,21.8243,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg
+Hungary,HUN,Budapest,https://en.wikipedia.org/wiki/Hungary,9797561,93030,105,47.1625,19.5033,https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg
+Ireland,IRL,Dublin,https://en.wikipedia.org/wiki/Republic_of_Ireland,4904226,70273,70,53.1424,-7.6921,https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg
+Italy,ITA,Rome,https://en.wikipedia.org/wiki/Italy,60359546,301338,200,41.8719,12.5674,https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg
+Latvia,LVA,Riga,https://en.wikipedia.org/wiki/Latvia,1919968,64589,30,56.8796,24.6032,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg
+Lithuania,LTU,Vilnius,https://en.wikipedia.org/wiki/Lithuania,2794184,65200,43,55.1694,23.8813,https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg
+Luxembourg,LUX,Luxembourg City,https://en.wikipedia.org/wiki/Luxembourg,613894,2586,237,49.8153,6.1296,https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg
+Malta,MLT,Valletta,https://en.wikipedia.org/wiki/Malta,493559,316,1562,35.9375,14.3754,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg
+Netherlands,NLD,Amsterdam,https://en.wikipedia.org/wiki/Netherlands,17282163,41543,416,52.1326,5.2913,https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg
+Poland,POL,Warsaw,https://en.wikipedia.org/wiki/Poland,37972812,312685,121,51.9194,19.1451,https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg
+Portugal,PRT,Lisbon,https://en.wikipedia.org/wiki/Portugal,10276617,92390,111,39.3999,-8.2245,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg
+Romania,ROU,Bucharest,https://en.wikipedia.org/wiki/Romania,19401658,238391,81,45.9432,24.9668,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg
+Slovakia,SVK,Bratislava,https://en.wikipedia.org/wiki/Slovakia,5450421,49035,111,48.669,19.699,https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg
+Slovenia,SVN,Ljubljana,https://en.wikipedia.org/wiki/Slovenia,2080908,20273,103,46.1512,14.9955,https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg
+Spain,ESP,Madrid,https://en.wikipedia.org/wiki/Spain,46934632,504030,93,40.4637,-3.7492,https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg
+Sweden,SWE,Stockholm,https://en.wikipedia.org/wiki/Sweden,10230185,449964,23,60.1282,18.6435,https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg
