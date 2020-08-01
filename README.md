@@ -1,6 +1,22 @@
 # Developing-Data-Products-Project
 *Peer Assessment for Developing Data Products*
 
+---
+
+### Important Links:
+
+1. Project Repo at Github:              [Click here!](https://github.com/prafful-agrawal/Developing-Data-Products-Project)
+
+2. Project description at Github pages: [Click here!](https://prafful-agrawal.github.io/Developing-Data-Products-Project)
+
+3. App-pitch at Github pages:           [Click here!](https://prafful-agrawal.github.io/Developing-Data-Products-Project/App-Pitch.html#1)
+
+4. Shiny app at `shinyapps.io`:         [Click here!](https://prafful-agrawal.shinyapps.io/European-Union-States)
+
+5. Code for the shiny app:              [Click here!](https://github.com/prafful-agrawal/Developing-Data-Products-Project/tree/master/European-Union-States)
+
+---
+
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
 ### Your Shiny Application
